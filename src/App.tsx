@@ -7,6 +7,8 @@ import Services from './components/Services';
 import Events from './components/Events';
 import Gallery from './components/Gallery';
 import Contact from './components/Contact';
+import Footer from './components/footer';
+import { Maps } from './components/map';
 
 function App() {
   return (
@@ -19,6 +21,8 @@ function App() {
       <Events />
       <Gallery />
       <Contact />
+      <Maps/>
+      <Footer/>
     </div>
   );
 }

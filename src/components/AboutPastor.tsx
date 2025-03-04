@@ -9,23 +9,22 @@ const AboutPastor = () => {
             <img
               src="/assets/mpzola2.jpg"
               alt="Pastor"
-              className="rounded-lg shadow-xl w-full h-[25rem] object-cover"
+              className="rounded-lg shadow-xl w-full h-[23rem] object-cover"
             />
             <div className="absolute inset-0 bg-indigo-600 opacity-10 rounded-lg"></div>
           </div>
           <div>
             <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-6">
-              Pastor João Silva
+              Pastor Manuel Panzo
             </h2>
             <p className="text-lg text-gray-600 mb-6">
-              Com mais de 20 anos de dedicação ao ministério, o Pastor João Silva tem guiado nossa
+              Com mais de 20 anos de dedicação ao ministério, o Pastor Manuel Panzo tem guiado nossa
               congregação com sabedoria, compaixão e um profundo compromisso com os ensinamentos
               de Cristo.
             </p>
             <p className="text-lg text-gray-600 mb-6">
               Formado em Teologia pela Universidade Teológica, ele combina conhecimento bíblico
-              com uma abordagem moderna e acolhedora, tornando as mensagens relevantes para
-              todas as gerações.
+              com uma abordagem moderna e acolhedora.
             </p>
             <div className="text-lg text-gray-600">
               "Nossa missão é criar um ambiente onde todos possam experimentar o amor de Deus
